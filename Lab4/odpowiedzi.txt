@@ -1,3 +1,5 @@
+Zad1. 189273.32699999996
+Zad4. Najpierw 8 potem 7, średnia: 595.35
 Zad5. Jest 5 takich budynków
 Zad6. Dalej jest 5 budynków
 Zad7. Jest 5 takich przecięć
