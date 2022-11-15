@@ -1,0 +1,5 @@
+Zad5. Jest 5 takich budynków
+Zad6. Dalej jest 5 budynków
+Zad7. Jest 5 takich przecięć
+
+zad 10. tolerancja 100m uproszczone: 220799949651,83954, wierzchołki: 298 oryginał area: 220797771915,66663  wierzchołki: 315
