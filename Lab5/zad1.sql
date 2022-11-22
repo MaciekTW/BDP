@@ -18,5 +18,4 @@ insert into obiekty values (4, ST_LineFromMultiPoint('MULTIPOINT(20 20, 25 25, 2
 
 insert into obiekty values (5, 'MULTIPOINT(30 30 59,38 32 234)', 'obiekt5');
 
-insert into obiekty values (6, ST_COLLECT(array[ST_GeomFromText('LINESTRING(1 1, 3 2)'),
-												ST_GeomFromText('POINT(4 2)')]), 'obiekt6');
+insert into obiekty values (6, ST_COLLECT(array[ST_GeomFromText('LINESTRING(1 1, 3 2)'),ST_GeomFromText('POINT(4 2)')]), 'obiekt6');
