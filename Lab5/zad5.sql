@@ -1,0 +1,1 @@
+select ST_AREA(ST_Buffer(geometry,5)) from obiekty where ST_HasArc(geometry) = FALSE
