@@ -1,0 +1,3 @@
+zad 3. Wykonanie kwerendy trwało bardzo długo i nie doszło do skutku
+zad 5. NIe udalo sie zaladowac calego pliku, osiągnięto limit
+zad11. NIe udało się uzyskać żadnego obrazu
